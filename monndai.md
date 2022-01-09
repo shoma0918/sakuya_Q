@@ -57,7 +57,7 @@
 <br>
 
 ### それぞれのカッコ内に適切な単語を一語ずつ入れなさい。5.私は魚より鶏肉が好きだ。I like chicken () () fish.
- ［答え］ I like chicken more than fish.
+ ［答え］ I like chicken better than fish.
 <br>
 
 ### めっちゃ長い問題のやつ
