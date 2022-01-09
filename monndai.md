@@ -5,7 +5,7 @@
 <br>
 
 ### 日本語に翻訳しなさい。My dad is a dog and has a savings of 200 million yen.
- ［答え］ 私の父は最低な男で2億の蓄えがあります。
+ ［答え］ 私の父は最低な男で2億円の蓄えがあります。
 <br>
 
 ### 日本語に翻訳しなさい。Razz production is a very nice entertainment office.
@@ -61,11 +61,11 @@
 <br>
 
 ### めっちゃ長い問題のやつ
- ［答え］ ① How did you get to Fukui?
- ［答え］ ② by
- ［答え］ ③ How many hours did you spend at the museum?
- ［答え］ ④ 私達はそこで三時間過ごしました。
- ［答え］ ⑤ I am so happy to be able to derive all of the answers. There is no unconfident answer. I had a good time. Thanks.
+ ［答え］ ① How did you get to Fukui?<br>
+ ［答え］ ② by<br>
+ ［答え］ ③ How many hours did you spend at the museum?<br>
+ ［答え］ ④ 私達はそこで三時間過ごしました。<br>
+ ［答え］ ⑤ I am so happy to be able to derive all of the answers. There is no unconfident <br>answer. I had a good time. Thanks.<br>
 
 ### 回答者の名前をフルネームでお答えください。
  ［答え］ なるせしょうま
@@ -184,7 +184,7 @@
 <br>
 
 ### 被子植物の花は受粉後何が何に変わりますか？
- ［答え］ 果実
+ ［答え］ 子房が果実に 胚珠が種子
 <br>
 
 ### 鳥類と爬虫類の卵に卵がある理由は？
