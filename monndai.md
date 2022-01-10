@@ -29,7 +29,7 @@
 <br>
 
 ### 英文にしなさい。彼女はアフオモをトムからもらって感動した。
- ［答え］ She was excited to receive the Ahuomo by Tom.
+ ［答え］ She was excited to receive thoughts overflowing by Tom.
 <br>
 
 ### 英文にしなさい。東京は私が時々訪れる町だ。
